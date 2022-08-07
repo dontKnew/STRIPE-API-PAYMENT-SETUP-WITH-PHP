@@ -4,6 +4,7 @@
 => Lets see ...
 
 ### Project Setup 
+=> After clone project run the command : Composer install
 1. Create database in the name of stripe_payment in phpmyadmin msql server
 2. import database from database/transaction.sql to phpmyadmin stripe_payment database.
 3. change file name from .env.example to .env
